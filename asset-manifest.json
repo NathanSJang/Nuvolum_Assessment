@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/NathanSJang.io/Nuvolum_Assessment/static/css/main.2832dea0.chunk.css",
+    "main.js": "/NathanSJang.io/Nuvolum_Assessment/static/js/main.3756452b.chunk.js",
+    "main.js.map": "/NathanSJang.io/Nuvolum_Assessment/static/js/main.3756452b.chunk.js.map",
+    "runtime-main.js": "/NathanSJang.io/Nuvolum_Assessment/static/js/runtime-main.f1cbda61.js",
+    "runtime-main.js.map": "/NathanSJang.io/Nuvolum_Assessment/static/js/runtime-main.f1cbda61.js.map",
+    "static/js/2.4b41b132.chunk.js": "/NathanSJang.io/Nuvolum_Assessment/static/js/2.4b41b132.chunk.js",
+    "static/js/2.4b41b132.chunk.js.map": "/NathanSJang.io/Nuvolum_Assessment/static/js/2.4b41b132.chunk.js.map",
+    "static/js/3.6e860834.chunk.js": "/NathanSJang.io/Nuvolum_Assessment/static/js/3.6e860834.chunk.js",
+    "static/js/3.6e860834.chunk.js.map": "/NathanSJang.io/Nuvolum_Assessment/static/js/3.6e860834.chunk.js.map",
+    "index.html": "/NathanSJang.io/Nuvolum_Assessment/index.html",
+    "static/css/main.2832dea0.chunk.css.map": "/NathanSJang.io/Nuvolum_Assessment/static/css/main.2832dea0.chunk.css.map",
+    "static/js/2.4b41b132.chunk.js.LICENSE.txt": "/NathanSJang.io/Nuvolum_Assessment/static/js/2.4b41b132.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1cbda61.js",
+    "static/js/2.4b41b132.chunk.js",
+    "static/css/main.2832dea0.chunk.css",
+    "static/js/main.3756452b.chunk.js"
+  ]
+}
